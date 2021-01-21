@@ -1,5 +1,5 @@
 # ideel-tutorials
-Introduction to Deep Learning (IDeeL) Tutorials
+**Introduction to Deep Learning (IDeeL) Tutorials**
 
 2.1  Converting Audio and Creating Spectrograms (mp4, wav, npy).ipynb
 
