@@ -1,5 +1,25 @@
 # ideel-tutorials
-**Introduction to Deep Learning (IDeeL) Tutorials**
+### Introduction to Deep Learning (IDeeL) Tutorials
+
+***1. Matrices***
+1.1 Saving and Loading Matrices in NumPy.ipynb
+
+1.2 Saving and Loading Matrices in PyTorch.ipynb
+
+1.3 Data Types of Matrices in NumPy.ipynb
+
+1.4 Data Types of Matrices in PyTorch.ipynb
+
+1.5 Length and Shape of Matrices in NumPy.ipynb
+
+1.6 Length and Shape of Matrices in PyTorch.ipynb
+
+1.7 Indexing Rows and Columns of Matrices in NumPy.ipynb
+
+1.8 Indexing Rows and Columns of Matrices in PyTorch.ipynb
+
+
+***2. Spectrograms***
 
 2.1  Converting Audio and Creating Spectrograms (mp4, wav, npy).ipynb
 
