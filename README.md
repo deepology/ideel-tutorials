@@ -5,7 +5,7 @@
 
 ***1. Matrices***
 
-&nbsp;&nbsp;&nbsp;&nbsp; 1.1 Saving and Loading Matrices in NumPy.ipynb
+&nbsp;&nbsp;&nbsp;&nbsp; 1.1 [Saving and Loading Matrices in NumPy.ipynb](https://github.com/deepology/ideel-tutorials/blob/main/Matrices/1.1%20Saving%20and%20Loading%20Matrices%20in%20NumPy.ipynb)
 
 &nbsp;&nbsp;&nbsp;&nbsp; 1.2 Saving and Loading Matrices in PyTorch.ipynb
 
