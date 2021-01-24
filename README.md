@@ -46,10 +46,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; 2.11 [Dataset Class for Multiple Spectrograms with Context in PyTorch.ipynb](https://github.com/deepology/ideel-tutorials/blob/main/Spectrograms/2.11%20Dataset%20Class%20for%20Multiple%20Spectrograms%20with%20Context%20in%20PyTorch.ipynb)
 
-&nbsp;&nbsp;&nbsp;&nbsp; 2.12 [Data Loader Classes in PyTorch.ipynb]()
+&nbsp;&nbsp;&nbsp;&nbsp; 2.12 [Data Loader Classes in PyTorch.ipynb]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 2.13 [Data Loader Class for Multiple Spectrograms in PyTorch.ipynb]()
+&nbsp;&nbsp;&nbsp;&nbsp; 2.13 [Data Loader Class for Multiple Spectrograms in PyTorch.ipynb]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 2.13 [Data Loader Class for Single Spectrogram in PyTorch.ipynb]()
+&nbsp;&nbsp;&nbsp;&nbsp; 2.13 [Data Loader Class for Single Spectrogram in PyTorch.ipynb]
 
-&nbsp;&nbsp;&nbsp;&nbsp; 2.14 [Data Loader Class for Multiple Spectrograms with Context in PyTorch.ipynb]()
+&nbsp;&nbsp;&nbsp;&nbsp; 2.14 [Data Loader Class for Multiple Spectrograms with Context in PyTorch.ipynb]
